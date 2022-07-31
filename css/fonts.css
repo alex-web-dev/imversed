@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "ChakraPetch";
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/ChakraPetch-Regular.woff") format("woff"),
+		url("../fonts/ChakraPetch-Regular.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "ChakraPetch";
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/ChakraPetch-SemiBold.ttf") format("woff"),
+		url("../fonts/ChakraPetch-SemiBold.woff") format("ttf");
+}
+
+@font-face {
+	font-family: "ChakraPetch";
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/ChakraPetch-Bold.ttf") format("woff"),
+		url("../fonts/ChakraPetch-Bold.woff") format("ttf");
+}
