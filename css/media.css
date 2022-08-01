@@ -489,6 +489,10 @@
 		width: 100%;
 	}
 
+	.footer__copyright {
+		font-size: 14px;
+	}
+
 	.footer__social {
 		justify-content: center;
 	}
