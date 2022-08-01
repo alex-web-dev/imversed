@@ -367,7 +367,7 @@
 
 	.menu_active .menu__toggle {
 		position: fixed;
-		right: 24px;
+		right: 20px;
 		z-index: 3;
 		top: 19px;
 	}
